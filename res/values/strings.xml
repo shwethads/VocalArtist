@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VocalArtist</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_songs">SongsActivity</string>
+    <string name="title_activity_videos">VideosActivity</string>
+    <string name="title_activity_wallpaper">WallpaperActivity</string>
+    <string name="title_activity_mailing_list">MailingListActivity</string>
+    <string name="home">HOME</string>
+    <string name="name">Shwetha Durgashankar</string>
+    <string name="url">wwww.shwetha.com</string>
+    <string name="contact">412-482-2305</string>
+    <string name="email">shwetha.d.25@gmail.com</string>
+    <string name="likes">like1, like2, like3, like4, like5</string>
+    <string name="dislikes">dislike1, dislike2, dislike3</string>
+    <string name="dob">25 Jan 1990</string>
+    <string name="social_networks">link1, link2, link3</string>
+    <string name="songs">Songs</string>
+    <string name="videos">Videos</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="mailing_list">Mailing List</string>
+    <string name="mailing_list_title">MAILING LIST</string>
+    <string name="full_name">Name:</string>
+    <string name="email_id">Email:</string>
+    <string name="ok">OK</string>
+    <string name="wallpaper_title">WALLPAPER</string>
+    <string name="songs_title">SONGS</string>
+    <string name="videos_title">VIDEOS</string>
+    
+
+</resources>
